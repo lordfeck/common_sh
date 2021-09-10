@@ -1,5 +1,6 @@
 Common.sh Bash JSON composer
 =====================
+*Common functions for Bash CGI*
 
 Yes, this exists. Yes, this works.
 
